@@ -1,6 +1,7 @@
-<img src="dof-dss-avatar.png" width="40px" height="40px" alt="DoF DSS logo" align="left" /> 
-
-# Digital Shared Services
+<p align="left">
+  <img src="dof-dss-avatar.png" width="50px" height="50px" alt="DoF DSS logo" align="left" /> 
+ <h1>Digital Shared Services</h1>
+</p>
 
 
 ## PROJECT NAME 
