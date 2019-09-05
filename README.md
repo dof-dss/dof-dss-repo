@@ -1,3 +1,10 @@
+
+<img src="dof-dss-avatar.png"
+     alt="DoF DSS logo"
+     style="float: left; margin-right: 20px; height: 40px; width: 40px;" />
+# DoF DSS
+
+
 ## PROJECT NAME 
 *Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.*
 
