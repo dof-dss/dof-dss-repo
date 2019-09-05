@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Running locally
 
 You'll need [Git](https://help.github.com/articles/set-up-git/)

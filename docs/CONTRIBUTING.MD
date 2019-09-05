@@ -14,7 +14,6 @@ We've compiled these docs to help you understand our contribution guidelines. If
 - [Conventions to follow](#conventions-to-follow)
 - [Testing and linting](#testing-and-linting)
 - [Commit hygiene](#commit-hygiene)
-- [Updating Changelog](#updating-changelog)
 
 ## Code of Conduct
 This project follows the ['dof-dss' GitHub organisation Code of Conduct.](https://dof-dss.github.io/contributor-code-of-conduct/)
@@ -33,7 +32,7 @@ See [running locally](/docs/contributing/running-locally.md).
 
 ## Testing and linting
 
-See [testing and linting](/docs/contributing/testing-and-linting.md).
+See [testing and linting](/docs/contributing/testing-linting.md).
 
 ## Commit hygiene
 
