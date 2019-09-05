@@ -1,12 +1,13 @@
-## PROJECT NAME
+## PROJECT NAME 
+*Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.*
 
-A short description of what this project does.
+## Description
+*A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.*
 
 ## Goals
-
-It is a good idea to provide a mission statement for your project, enshrining
+*It is a good idea to provide a mission statement for your project, enshrining
 what the project wants to accomplish so that as more people join your project
-everyone can work in alignment.
+everyone can work in alignment.*
 
 ### Installation
 
@@ -31,8 +32,8 @@ myMod.foo('hi');
 
 ### Contributing
 
-Contributions are welcomed! Read the [Contributing Guide](./.github/CONTRIBUTING.md) for more information.
+Contributions are welcomed! Read the [Contributing Guide](./docs/CONTRIBUTING.md) for more information.
 
 ### Licensing
 
-Provide details of the Licence that applies to this project.
+Provide details of the Licence that applies to this project. [Licence](./docs/Licence.md)
