@@ -25,17 +25,17 @@ Unless stated otherwise, the codebase is released under the MIT License. This co
 
 ## Project Documentation
 
-### Why did we build this project
+### Why did we build this project?
 
 - [Project Mission Statement](./docs/mission.md)
 
-### What problem was it solving
+### What problem was it solving?
 
 - [Project Context](./docs/context/Index.md)
 - [Personas](./docs/context/personas.md)
 - [Scenarios](./docs/context/scenarios.md)
 
-### How did we do it
+### How did we do it?
 
 - [Architectural Design](./docs/architectural-design/Index.md)
 
