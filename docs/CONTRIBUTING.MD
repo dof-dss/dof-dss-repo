@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contributing
 We've compiled these docs to help you understand our contribution guidelines. If you still have questions, please [ask](https://github.com/dof-dss/dof-dss-repo/issues/new?assignees=&labels=question&template=question.md&title=), we'd be happy to help.
 
