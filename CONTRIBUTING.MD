@@ -5,7 +5,7 @@ We've compiled these docs to help you understand our contribution guidelines. If
 
 ### For contributors
 - [Code of conduct](#code-of-conduct)
-- [Application architecture](#application-architecture)
+- [Directory Structure](#directory-structure)
 - [Running locally](#running-locally)
 - [Conventions to follow](#conventions-to-follow)
 - [Testing and linting](#testing-and-linting)
@@ -15,9 +15,9 @@ We've compiled these docs to help you understand our contribution guidelines. If
 ## Code of Conduct
 Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing.
 
-## Application architecture
+## Directory structure
 
-See [application architecture](/docs/contributing/application-architecture.md) for an overview of the directories in this repository.
+See [repo directories](/docs/contributing/repo-directories.md) for an overview of the directories in this repository.
 
 ## Running locally
 
