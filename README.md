@@ -1,5 +1,5 @@
 
-<img src="dof-dss-avatar.png"
+<img src="dof-dss-avatar.png" width="40px" height="40px"
      alt="DoF DSS logo"
      style="float: left; margin-right: 20px; height: 40px; width: 40px;" />
 # DoF DSS
