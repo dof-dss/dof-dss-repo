@@ -36,4 +36,4 @@ Contributions are welcomed! Read the [Contributing Guide](./docs/CONTRIBUTING.md
 
 ### Licensing
 
-Provide details of the Licence that applies to this project. [Licence](./docs/Licence.md)
+Unless stated otherwise, the codebase is released under the MIT License. This covers both the codebase and any sample code in the documentation. The documentation is © Crown copyright and available under the terms of the Open Government 3.0 licence.
