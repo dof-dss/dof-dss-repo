@@ -13,11 +13,11 @@ We've compiled these docs to help you understand our contribution guidelines. If
 - [Updating Changelog](#updating-changelog)
 
 ## Code of Conduct
-Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing.
+This project follows the ['dof-dss' GitHub organisation Code of Conduct.](https://github.com/dof-dss/contributor-code-of-conduct/blob/master/README.md)
 
 ## Directory structure
 
-See [repo directories](/docs/contributing/repo-directories.md) for an overview of the directories in this repository.
+See [repo directories](/docs/contributing/directory-structure.md) for an overview of the directories in this repository.
 
 ## Running locally
 
@@ -33,9 +33,5 @@ See [testing and linting](/docs/contributing/testing-and-linting.md).
 
 ## Commit hygiene
 
-Please see our [git style guide](https://github.com/alphagov/styleguides/blob/master/git.md)
+Please see the GDS [git style guide](https://github.com/alphagov/styleguides/blob/master/git.md)
 which describes how we prefer git history and commit messages to read.
-
-## Updating Changelog
-
-See the versioning documentation for [updating the changelog](/docs/contributing/versioning.md#updating-changelog)

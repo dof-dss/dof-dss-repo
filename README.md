@@ -32,7 +32,7 @@ myMod.foo('hi');
 
 ### Contributing
 
-Contributions are welcomed! Read the [Contributing Guide](./CONTRIBUTING.MD) for more information.
+Contributions are welcomed! Read the [Contributing Guide](./docs/CONTRIBUTING.MD) for more information.
 
 ### Licensing
 
