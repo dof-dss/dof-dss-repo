@@ -1,9 +1,3 @@
-# DoF DSS Standard Repo
-
-This repository contains templates for project documentation, ensuring necessary
-legal and contributor documentation is explicit. All sections below in this `README.md`
-should be considered a template for a typical project `README.md`.
-
 ## PROJECT NAME
 
 A short description of what this project does.
