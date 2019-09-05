@@ -17,7 +17,7 @@
 
 ## Contributing
 
-Contributions are welcomed! Read the [Contributing Guide](./docs/CONTRIBUTING.MD) for more information.
+Contributions are welcomed! Read the [Contributing Guide](./docs/contributing/Index.md) for more information.
 
 ## Licensing
 

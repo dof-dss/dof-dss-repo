@@ -16,11 +16,11 @@ This project follows the ['dof-dss' GitHub organisation Code of Conduct.](https:
 
 ## Directory structure
 
-See [repo directories](./contributing/directory-structure.md) for an overview of the directories in this repository.
+See [repo directories](./directory-structure.md) for an overview of the directories in this repository.
 
 ## Running locally
 
-See [running locally](./contributing/running-locally.md).
+See [running locally](./running-locally.md).
 
 ## Conventions to follow
 
@@ -28,7 +28,7 @@ See [running locally](./contributing/running-locally.md).
 
 ## Testing and linting
 
-See [testing and linting](./contributing/testing-linting.md).
+See [testing and linting](./testing-linting.md).
 
 ## Commit hygiene
 
