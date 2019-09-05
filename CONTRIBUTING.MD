@@ -8,12 +8,9 @@ We've compiled these docs to help you understand our contribution guidelines. If
 - [Application architecture](#application-architecture)
 - [Running locally](#running-locally)
 - [Conventions to follow](#conventions-to-follow)
-   *Detail coding standards etc.*
 - [Testing and linting](#testing-and-linting)
-- [Supported browsers](#supported-browsers)
 - [Commit hygiene](#commit-hygiene)
 - [Updating Changelog](#updating-changelog)
-- [Testing a release](#testing-a-release)
 
 ## Code of Conduct
 Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing.
@@ -28,31 +25,11 @@ See [running locally](/docs/contributing/running-locally.md).
 
 ## Conventions to follow
 
-### Indentation and whitespace
-
-2-space, soft-tabs only. No trailing whitespace.
-
-### CSS
-
-See our [coding standards for CSS](/docs/contributing/coding-standards/css.md) and [testing and linting](/docs/contributing/testing-and-linting.md).
-
-### JavaScript
-
-See our [coding standards for JavaScript](/docs/contributing/coding-standards/js.md) and [testing and linting](/docs/contributing/testing-and-linting.md).
-
-### Components and Nunjucks API
-
-See our [coding standards for components](/docs/contributing/coding-standards/components.md), [coding standards for Nunjucks macros](/docs/contributing/coding-standards/nunjucks-api.md) and [testing and linting](/docs/contributing/testing-and-linting.md).
+   *Detail coding standards etc.*
 
 ## Testing and linting
 
 See [testing and linting](/docs/contributing/testing-and-linting.md).
-
-## Supported browsers
-Your contribution needs to work with certain browsers as set out in [README](README.md#browser-support). See also [supporting Internet Explorer 8](/docs/installation/supporting-internet-explorer-8.md).
-
-## Supported assistive technology
-Your contribution needs to work with certain assistive technology as set out in [README](README.md#assistive-technology-support).
 
 ## Commit hygiene
 
@@ -62,18 +39,3 @@ which describes how we prefer git history and commit messages to read.
 ## Updating Changelog
 
 See the versioning documentation for [updating the changelog](/docs/contributing/versioning.md#updating-changelog)
-
-## Testing a release
-If you need to test a release, for example if you're contributing a new component see [Publishing pre-release of GOV.UK Frontend](/docs/contributing/publishing-a-pre-release.md).
-
-## Application tasks
-
-See [tasks](/docs/contributing/tasks.md).
-
-## Deploying
-
-See [deploying](/docs/contributing/deploying.md).
-
-## Releasing a new version
-
-See [publishing](/docs/contributing/publishing.md).
