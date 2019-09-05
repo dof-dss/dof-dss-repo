@@ -5,8 +5,8 @@
 
 ## Contents of this file
 
-- [Contributing](#Contributing)
-- [Licensing](#Licensing)
+- [Contributing](#contributing)
+- [Licensing](#licensing)
 - [Project Documentation](#project-documentation)
     - [Why did we build this project](#why-did-we-build-this-project)
     - [What problem was it solving](#what-problem-was-it-solving)
