@@ -1,7 +1,5 @@
-<p align="left">
-  <img src="dof-dss-avatar.png" width="50px" height="50px" alt="DoF DSS logo" align="left" /> 
- <h1>Digital Shared Services</h1>
-</p>
+<img src="dof-dss-avatar.png" width="50px" height="50px" alt="DoF DSS logo" align="left" valign="bottom"/> 
+<h1>Digital Shared Services</h1>
 
 
 ## PROJECT NAME 
