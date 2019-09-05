@@ -13,7 +13,7 @@ We've compiled these docs to help you understand our contribution guidelines. If
 - [Updating Changelog](#updating-changelog)
 
 ## Code of Conduct
-This project follows the ['dof-dss' GitHub organisation Code of Conduct.](https://github.com/dof-dss/contributor-code-of-conduct/blob/master/README.md)
+This project follows the ['dof-dss' GitHub organisation Code of Conduct.](https://dof-dss.github.io/contributor-code-of-conduct/)
 
 ## Directory structure
 
